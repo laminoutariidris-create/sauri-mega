@@ -1,0 +1,8 @@
+{
+  "name": "Sauri Mega",
+  "description": "Application mobile de recharge de crédit et forfaits internet au Niger (Airtel Niger, Zamani, Moov Africa, Niger Telecom).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
